@@ -1,5 +1,11 @@
 // This repository has example code for consuming the Buy me a coffee API
 
+// first our needed usings
+using System;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Threading.Tasks;
+
 // Getting a member by id
 
 // First you need to setup your ACCESS_TOKEN
