@@ -1,6 +1,6 @@
-This repository has example code for consuming the Buy me a coffee API
+// This repository has example code for consuming the Buy me a coffee API
 
-Getting a member by id
+// Getting a member by id
 
 // First you need to setup your ACCESS_TOKEN
 // Go here and login to get your token
