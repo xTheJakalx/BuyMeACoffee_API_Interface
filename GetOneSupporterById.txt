@@ -8,9 +8,9 @@ Getting a supporter by id
 private static string access_token = "change me to your token!";
 
 /// <summary>
-/// Return a single Members by id as a member model
+/// Return a single Supporter by id as a model
 /// </summary>
-private async Task<string> GetMemberAsync(int id)
+private async Task<string> GetSupporterAsync(int id)
 {
     HttpClient client = new HttpClient();
     client.BaseAddress = new Uri("https://developers.buymeacoffee.com/");
