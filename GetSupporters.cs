@@ -1,5 +1,9 @@
 // This repository has example code for consuming the Buy me a coffee API
 
+// first our needed usings
+using System;
+using System.Net.Http;
+using System.Net.Http.Headers;
 // Getting supporters
 
 /// <summary>
