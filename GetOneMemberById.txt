@@ -8,7 +8,7 @@ Getting a member by id
 private static string access_token = "change me to your token!";
 
 /// <summary>
-/// Return a list of active Members as a model
+/// Return a single Members by id as a member model
 /// </summary>
 private async Task<string> GetMemberAsync(int id)
 {
