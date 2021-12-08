@@ -6,11 +6,16 @@ This is a collection of code that can be used with the API over at https://www.b
 
 BMC Function              -> File.cs
 ------------------------------------------------
-All Supporters            -> GetActiveMembers.cs
+All Supporters            -> GetActiveMembers.cs 
+
 Members by id             -> GetOneMemberById.cs
+
 Onetime-supporters        -> GetSupporters.cs
+
 Onetime-supporters by ID  -> GetOneSupporterById.cs
+
 Extra purchases           -> GetExtras.cs
+
 Extra purchases by ID     -> GetExtraById.cs
 
 
