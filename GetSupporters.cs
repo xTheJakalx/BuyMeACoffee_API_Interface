@@ -1,6 +1,6 @@
-This repository has example code for consuming the Buy me a coffee API
+// This repository has example code for consuming the Buy me a coffee API
 
-Getting supporters
+// Getting supporters
 
 /// <summary>
 /// Return a list of active Supporters as a model
